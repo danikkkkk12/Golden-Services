@@ -35,3 +35,9 @@ a{
 h2{
     text-transform: uppercase;
 }
+
+.container{
+    border: 1px black;
+    width: 942px;
+    margin: 0 auto;
+}
