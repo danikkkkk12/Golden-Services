@@ -35,9 +35,10 @@ a{
 h2{
     text-transform: uppercase;
 }
-
 .container{
-    border: 2px solid red;
+    border: 1px solid black;
     width: 942px;
     margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
